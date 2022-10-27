@@ -1,4 +1,4 @@
-### Olá! Eu sou a Amanda!
+### Olá! Eu sou a Amanda! 👩🏻‍💻
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 - ♨️ Estudando Java
